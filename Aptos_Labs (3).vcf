@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Max Kaplan
+N;CHARSET=UTF-8:Max Kaplan;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;745 Emerson St;Palo Alto;CA;94301-2411;USA
+EMAIL:max@aptoslabs.com
+ORG;CHARSET=UTF-8:Aptos Labs
+URL:http://aptoslabs.com
+END:VCARD
